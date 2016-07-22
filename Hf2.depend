@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1360072652 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\2ce\hf2\main.cpp
+	<iostream>
+	"enor.h"
+
+1360072680 c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\2ce\hf2\enor.h
+	<fstream>
+
+1360073187 source:c:\documents and settings\tibor\dokumentumok\oktatás\programozás\beadandók\2ce\hf2\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<iostream>
+
+1360073188 source:c:\users\greti\documents\oktatás\programozás\beadandók\2ce\hf2\enor.cpp
+	"enor.h"
+	<cstdlib>
+	<iostream>
+
+1367827066 c:\users\greti\documents\oktatás\programozás\beadandók\2ce\hf2\enor.h
+	<fstream>
+
+1367827077 source:c:\users\greti\documents\oktatás\programozás\beadandók\2ce\hf2\main.cpp
+	<iostream>
+	"enor.h"
+
+1367827206 source:c:\users\greti\documents\oktatás\prog\beadandók\2ce\hf2\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+
+1367828203 c:\users\greti\documents\oktatás\prog\beadandók\2ce\hf2\seqinfile.h
+	<fstream>
+
+1367827126 source:c:\users\greti\documents\oktatás\prog\beadandók\2ce\hf2\vizsgajegy.cpp
+	<iostream>
+	"seqinfile.h"
+
+1430763743 source:c:\users\dotkom\downloads\hf2\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+
+1430761703 c:\users\dotkom\downloads\hf2\seqinfile.h
+	<fstream>
+
+1430762958 source:c:\users\dotkom\downloads\hf2\vizsgajegy.cpp
+	<iostream>
+	"seqinfile.h"
+
+1430910075 source:d:\documents\elte\programozas\beadando\hf2\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+
+1430910081 d:\documents\elte\programozas\beadando\hf2\seqinfile.h
+	<fstream>
+
+1430919698 source:d:\documents\elte\programozas\beadando\hf2\vizsgajegy.cpp
+	<iostream>
+	"seqinfile.h"
+
+1430937251 source:c:\users\dotkom\documents\hf2\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+
+1430937251 c:\users\dotkom\documents\hf2\seqinfile.h
+	<fstream>
+
+1430939027 source:c:\users\dotkom\documents\hf2\main.cpp
+	<iostream>
+	"seqinfile.h"
+
+1431542802 source:c:\users\dotkom\downloads\hf21.5\main.cpp
+	<iostream>
+	"seqinfile.h"
+
+1431542802 c:\users\dotkom\downloads\hf21.5\seqinfile.h
+	<fstream>
+
+1431542802 source:c:\users\dotkom\downloads\hf21.5\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+
+1431542802 source:c:\users\dotkom\downloads\beadando2_singerpatrik\main.cpp
+	<iostream>
+	"seqinfile.h"
+
+1431542802 c:\users\dotkom\downloads\beadando2_singerpatrik\seqinfile.h
+	<fstream>
+
+1431542802 source:c:\users\dotkom\downloads\beadando2_singerpatrik\seqinfile.cpp
+	"seqinfile.h"
+	<cstdlib>
+	<iostream>
+	<sstream>
+
